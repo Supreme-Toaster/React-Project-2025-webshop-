@@ -1,3 +1,24 @@
+From a terminal or VS:Code.
+
+git clone https://github.com/Supreme-Toaster/React-Project-2025-webshop-.git
+
+cd .\React-Project-2025-webshop-\
+
+npm install axios@latest react-router-dom@latest
+
+npm run dev
+
+
+
+This should install all dependencies for the project.
+
+
+
+
+
+
+
+//Automatic generation React-Vite
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
