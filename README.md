@@ -4,13 +4,13 @@ git clone https://github.com/Supreme-Toaster/React-Project-2025-webshop-.git
 
 cd .\React-Project-2025-webshop-\
 
-npm install axios@latest react-router-dom@latest
+npm install react-router-dom@latest
 
 npm run dev
 
 
 
-This should install all dependencies for the project.
+This installs all dependencies for the project.
 
 
 
